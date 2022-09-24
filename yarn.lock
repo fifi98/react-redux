@@ -8779,18 +8779,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-dom@npm:18.0.0":
-  version: 18.0.0
-  resolution: "react-dom@npm:18.0.0"
-  dependencies:
-    loose-envify: ^1.1.0
-    scheduler: ^0.21.0
-  peerDependencies:
-    react: ^18.0.0
-  checksum: 4bdb133817e5a59716d673cfa0d01b8970c18ed61ad3793143b2480ed96ddc095b5b4e68073088294984a21d1356f2c17f2e40553e5e3f4b571e7af6893e2876
-  languageName: node
-  linkType: hard
-
 "react-is@npm:^16.12.0 || ^17.0.0, react-is@npm:^17.0.1, react-is@npm:^17.0.2":
   version: 17.0.2
   resolution: "react-is@npm:17.0.2"
@@ -8915,9 +8903,7 @@ __metadata:
     hoist-non-react-statics: ^3.3.2
     jest: ^26.6.1
     prettier: ^2.1.2
-    react: 18.0.0
     react-17: "npm:react@^17"
-    react-dom: 18.0.0
     react-dom-17: "npm:react-dom@^17"
     react-is: ^18.0.0
     react-native: ^0.64.1
@@ -8994,15 +8980,6 @@ __metadata:
   peerDependencies:
     react: ^18.0.0
   checksum: 51b9d81b679d547d010b594941c7289fb4f616a25a697c887f3caee55d7b21ede0c9aa880372fdee3fb9afe9d531f47fe808c43730752f4114cca0871634fbf6
-  languageName: node
-  linkType: hard
-
-"react@npm:18.0.0":
-  version: 18.0.0
-  resolution: "react@npm:18.0.0"
-  dependencies:
-    loose-envify: ^1.1.0
-  checksum: 83d69fad37b5919762b584140d65d3e21e8c45760f7dbce90e78afc59c38bf96a058691886e28f7c2d8bb595facf4dec1907b92d2c5264de194ed91d0e3eb8e1
   languageName: node
   linkType: hard
 
